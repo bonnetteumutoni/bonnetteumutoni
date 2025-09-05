@@ -1,4 +1,6 @@
-## Hi there 👋
+About me:
+---
+Advancements in robotic technology have enabled exploration of outer space by providing information and images from distant locations. Fueled by her interest in robotics, Bonnette is fascinated by how these machines transform questions into discoveries. She sees robotics as more than technology; it’s a bridge to new worlds, solving complex challenges and making the universe feel closer.
 
 <!--
 **bonnetteumutoni/bonnetteumutoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
