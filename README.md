@@ -1,4 +1,5 @@
-![alt text]([https://url-to-your-icon-image.png](https://www.google.com/imgres?q=about%20icon&imgurl=https%3A%2F%2Fcdn-icons-png.freepik.com%2F512%2F3357%2F3357329.png&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ficon%2Fabout_3357329&docid=1LtojxbjjBonzM&tbnid=lBhjP30fS0fAfM&vet=12ahUKEwj1gMKRgcKPAxXuRaQEHXxcJYgQM3oECBoQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwj1gMKRgcKPAxXuRaQEHXxcJYgQM3oECBoQAA))
+[![About Icon](https://cdn-icons-png.freepik.com/512/3357/3357329.png)](https://www.freepik.com/icon/about_3357329)
+
 About me:
 ---
 Advancements in robotic technology have enabled exploration of outer space by providing information and images from distant locations. Fueled by her interest in robotics, Bonnette is fascinated by how these machines transform questions into discoveries. She sees robotics as more than technology; it’s a bridge to new worlds, solving complex challenges and making the universe feel closer.
